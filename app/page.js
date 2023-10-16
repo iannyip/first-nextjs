@@ -37,7 +37,7 @@ export default function Home() {
 
       {/* SECTION FOR BLURB */}
       <section className='text-lg/10 my-10'>
-        <p>Hi, I'm Ian 👋</p>
+        <p>Hi, I&apos;m Ian 👋</p>
         <p>I build stuff on this page.</p>
       </section>
 
